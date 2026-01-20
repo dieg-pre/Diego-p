@@ -1,11 +1,10 @@
-package edu.diego.preciado.act_1;
+package edu.diego.preciado.act_2;
 
-import edu.diego.preciado.act_1.ui.CLI;
+import edu.diego.preciado.act_2.ui.CLI;
 
 public class Main {
-
     public static void main(String[] args){
-        System.out.println("Bienvenido a nuestro showcase de Honda");
+        System.out.println("Bienvenido a nuestra calculadora");
         CLI.start();
         System.out.println("Esperamos verte pronto.");
     }
