@@ -1,4 +1,4 @@
-package edu.diego.preciado.act_2;
+package edu.diego.preciado.act_1.process;
 
 public class Suma {
     /**

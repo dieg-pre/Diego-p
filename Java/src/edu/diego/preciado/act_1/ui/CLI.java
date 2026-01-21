@@ -1,7 +1,6 @@
-package edu.diego.preciado.act_2.ui
+package edu.diego.preciado.act_1.ui;
 
-package edu.diego.preciado.act_2.ui;
-import edu.diego.preciado.act_2.process.Calculo;
+import edu.diego.preciado.act_1.process.Calculadora;
 import org.w3c.dom.ls.LSOutput;
 
 import java.lang.classfile.instruction.SwitchCase;

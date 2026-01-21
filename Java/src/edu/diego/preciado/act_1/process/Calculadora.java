@@ -1,8 +1,6 @@
-package edu.diego.preciado.act_2;
+package edu.diego.preciado.act_1.process;
 
-package edu.diego.preciado.act_2.process;
-
-public class Calculo {
+public class Calculadora {
 
     public int suma(int op1,int op2){
         int res=0;

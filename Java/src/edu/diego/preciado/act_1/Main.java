@@ -1,6 +1,6 @@
-package edu.diego.preciado.act_2;
+package edu.diego.preciado.act_1;
 
-import edu.diego.preciado.act_2.ui.CLI;
+import edu.diego.preciado.act_1.ui.CLI;
 
 public class Main {
     public static void main(String[] args){
